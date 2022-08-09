@@ -1,3 +1,6 @@
+layout: page
+title: "PAGE FILE2"
+
 # This is the title
 
 - [Other doc](file2.md)
