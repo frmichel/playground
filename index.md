@@ -1,5 +1,7 @@
+---
 layout: page
 title: "WELCOME PAGE"
+---
 
 
 ## Welcome to GitHub Pages
