@@ -8,7 +8,8 @@ You can use the [editor on GitHub](https://github.com/frmichel/playground/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- [Other file](file2.md)
+- [page file2](file2.md)
+- [post](_posts/2022-08-09-nom-du-post.md)
 
 
 ### Markdown
